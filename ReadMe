@@ -1,0 +1,8 @@
+
+Download the dataset and change the path in th code. The data contains 128 instances and 13 features. 
+
+In K-means the number of clusters k range from 2 to 10, for each number of clusters, of your Kmeans algorithm, I have computed the objective function value. Then the code plots the graph between objective function value vs. the number of clusters k.
+
+The GMM implentation if for k=2(i.e. 2 clusters). Upon convergence the code plots a scatter plot to visualize your clustering results. I have used only the first two features as input to draw the scatter plot.
+
+The Principal Component Analysis (PCA) implementation reduces the dimensionality of original data from 13 to 2.
